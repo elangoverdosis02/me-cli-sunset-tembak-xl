@@ -43,6 +43,11 @@ Setelah Itu Klik CTRL Lalu Klik X Lalu Klik Y Lalu Enter
 ```
 python main.py
 ```
+
+Famili code:
+```
+6a838c0b-8f01-42e4-847c-2c0715ca248d
+```
 ~×~
 
 Download Termuxnya Di https://f-droid.org/id/packages/com.termux/
