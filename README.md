@@ -17,8 +17,6 @@ Tools Ini Sudah Terbukti Aman & Tanpa Biaya Admin Sedikitpun
 apt update && apt full-upgrade
 ```
 ```
-2. install git
-```
 pkg install git
 ```
 ```
