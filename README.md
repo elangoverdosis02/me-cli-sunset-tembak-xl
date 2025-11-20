@@ -29,7 +29,7 @@ apt install python-pillow
 git clone https://github.com/elangoverdosis02/me-cli-sunset-tembak-xl
 ```
 ```
-cd me-cli-sunset
+cd me-cli-sunset-tembak-xl
 ```
 ```
 pip install -r requirements.txt
