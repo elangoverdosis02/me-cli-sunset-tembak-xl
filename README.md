@@ -20,7 +20,7 @@ pkg install git -y
 ```
 3. Clone this repo
 ```
-git clone https://github.com/elangoverdosis02/me-cli-sunset-tembak-xl)
+git clone https://github.com/elangoverdosis02/me-cli-sunset-tembak-xl
 ```
 4. Open the folder
 ```
