@@ -122,7 +122,7 @@ ccb162e6-b7cf-4162-8e3f-662e67cbb4cb
 #Paket Bonus MyRewards  
 07461ed8-8a81-4d89-a8f2-4dd0271efdde
 
-# Add on XCP 2GB  
+#Add on XCP 2GB  
 580c1f94-7dc4-416e-96f6-8faf26567516
 
 #Add on XCP 15GB  
@@ -208,6 +208,9 @@ fcf982c8-523b-4748-9258-5fca2c0b703d
 
 #Add on bonus kuota 
 8beee429-d1b3-46be-b895-cc70f1d15551
+
+#midnight 1gb
+64e63f53-6889-4d12-a0b4-ef9ea77b9efc
 ~×~
 
 Download Termuxnya Di https://f-droid.org/id/packages/com.termux/
