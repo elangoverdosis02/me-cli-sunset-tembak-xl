@@ -153,7 +153,7 @@ def show_package_details(api_key, tokens, package_option_code, is_enterprise, op
         print("6. QRIS + Decoy (+1K)")
         print("7. QRIS + Decoy V2")
         print("8. Pulsa N kali")
-         print("9. Debug Share Package")
+        # print("9. Debug Share Package")
 
         # Sometimes payment_for is empty, so we set default to BUY_PACKAGE
         if payment_for == "":
