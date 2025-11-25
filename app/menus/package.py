@@ -153,7 +153,7 @@ def show_package_details(api_key, tokens, package_option_code, is_enterprise, op
         print("6. QRIS + Decoy (+1K)")
         print("7. QRIS + Decoy V2")
         print("8. Pulsa N kali")
-        # print("9. Debug Share Package")
+         print("9. Debug Share Package")
 
         # Sometimes payment_for is empty, so we set default to BUY_PACKAGE
         if payment_for == "":
@@ -422,10 +422,10 @@ def show_package_details(api_key, tokens, package_option_code, is_enterprise, op
             return True
         elif choice == '8':
             #Pulsa N kali
-            use_decoy_for_n_times = input("Use decoy package? (y/n): ").strip().lower() == 'y'
-            n_times_str = input("Enter number of times to purchase (e.g., 3): ").strip()
+            use_decoy_for_n_times = input("Gunakan paket umpan? (y/n): ").strip().lower() == 'y'
+            n_times_str = input("Masukkan jumlah kali pembelian (e.g., 3): ").strip()
 
-            delay_seconds_str = input("Enter delay between purchases in seconds (e.g., 25): ").strip()
+            delay_seconds_str = input("Masukkan penundaan antar pembelian dalam hitungan detik (e.g., 25): ").strip()
             if not delay_seconds_str.isdigit():
                 delay_seconds_str = "0"
 
