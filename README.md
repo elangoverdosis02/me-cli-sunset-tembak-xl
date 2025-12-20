@@ -67,6 +67,7 @@ No. 19 & 20,
 Pembayaran no. 5
 
 Rp.0
+
 ```
 96d99f87-8963-40e4-a522-8bea86504fee
 ```
