@@ -45,6 +45,16 @@ python main.py
 ```
 
 Option code:
+
+#Xtra Combo Plus
+XCP 3Gb 30k No.24
+23b71540-8785-4abe-816d-e9b4efa48f95
+
+Add-on XCP 15Gb 5k
+45c3a622-8c06-4bb1-8e56-bba1f3434600
+
+Add on XCP 10Gb 3k
+7658c955-a0b9-405f-bb17-de7f43d1a946
 ```
 U0NfXyAqzYSNsQ3y4YsINJ4TjT9awLUY6iBfKdXpK-vK9FcJiDnwpyDPGSlUDr2ggRT9KX4JjvekuVilZ4Fc2-o
 ```
